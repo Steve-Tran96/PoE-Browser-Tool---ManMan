@@ -1,0 +1,6 @@
+{
+  "last_updated": "2025-12-03",
+  "message": "Cập nhật link PoE 2 mới nhất",
+  "poe1_url": "https://poe.ninja/api/data/currencyoverview",
+  "poe2_url": "https://poe.ninja/poe2/api/economy/exchange/current/overview"
+}
