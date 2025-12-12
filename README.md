@@ -3,9 +3,9 @@
 ## 🛠️ Cài đặt & Yêu cầu
 1.  **Yêu cầu hệ thống:**
     * Windows 10/11 (64-bit).
-    * .NET Framework 4.7.2 trở lên.
+    * .NET Framework 4.7.2 ++ -> "https://dotnet.microsoft.com/en-us/download/dotnet-framework/net472".
 2.  **Cài đặt:**
-    * Tải file `.exe` về máy.
+    * Tải toàn bộ file trong link "https://github.com/Steve-Tran96/PoE-Browser-Tool---ManMan" về máy -> giải nén khởi chạy "Infopoe.exe".
     * Tạo thư mục `Images` cùng cấp với file exe để chứa ảnh mẫu (nếu dùng tính năng FindImage).
     * Chạy phần mềm dưới quyền **Administrator** (Run as Admin) để đảm bảo phím tắt hoạt động ổn định.
 
